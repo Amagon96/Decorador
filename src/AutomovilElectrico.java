@@ -1,3 +1,8 @@
+
+/**
+ * Created by Andree
+ */
+
 public class AutomovilElectrico extends AutomovilDecorador {
 
     public AutomovilElectrico(Automovil auto) {
